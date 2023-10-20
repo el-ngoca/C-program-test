@@ -1,0 +1,12 @@
+/home/berserker/Documents/Programa test/Class/bin/Debug/net7.0/Class.deps.json
+/home/berserker/Documents/Programa test/Class/bin/Debug/net7.0/Class.dll
+/home/berserker/Documents/Programa test/Class/bin/Debug/net7.0/Class.pdb
+/home/berserker/Documents/Programa test/Class/obj/Debug/net7.0/Class.csproj.AssemblyReference.cache
+/home/berserker/Documents/Programa test/Class/obj/Debug/net7.0/Class.GeneratedMSBuildEditorConfig.editorconfig
+/home/berserker/Documents/Programa test/Class/obj/Debug/net7.0/Class.AssemblyInfoInputs.cache
+/home/berserker/Documents/Programa test/Class/obj/Debug/net7.0/Class.AssemblyInfo.cs
+/home/berserker/Documents/Programa test/Class/obj/Debug/net7.0/Class.csproj.CoreCompileInputs.cache
+/home/berserker/Documents/Programa test/Class/obj/Debug/net7.0/Class.dll
+/home/berserker/Documents/Programa test/Class/obj/Debug/net7.0/refint/Class.dll
+/home/berserker/Documents/Programa test/Class/obj/Debug/net7.0/Class.pdb
+/home/berserker/Documents/Programa test/Class/obj/Debug/net7.0/ref/Class.dll
